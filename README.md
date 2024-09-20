@@ -1,0 +1,1 @@
+An HR Analytics Dashboard created using Power BI provides a comprehensive view of key human resource metrics, helping organizations make data-driven decisions to improve workforce management. This dashboard typically includes visualizations and reports on employee demographics, turnover rates, recruitment performance, training progress, and employee engagement.
